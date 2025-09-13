@@ -1,0 +1,15 @@
+{
+  "name": "2ndo_proyecto",
+  "version": "1.0.0",
+  "description": "En este repositorio se encuentran anexadas el segundo proyecto asignada en la Rubirca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
